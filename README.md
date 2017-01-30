@@ -215,6 +215,7 @@
     }
 ```
 - Never use vendor prefixes
+
 ### Comments
 - Always use single line comments style
 ```scss
