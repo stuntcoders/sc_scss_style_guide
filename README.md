@@ -1,5 +1,5 @@
 # StuntCoders style guide for SCSS
----
+
 ### Folder structure
 ```
     scss/
