@@ -16,7 +16,7 @@
     |   |__ _tables.scss
     |   |.. ...
     |
-    |__layout/
+    |__layouts/
     |   |__ _base.scss
     |   |__ _footer.scss
     |   |__ _header.scss
