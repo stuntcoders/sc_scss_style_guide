@@ -51,7 +51,7 @@
 - **Utils** gather all the tools and helpers used across the project.
 - **Vendors** contain all SCSS files from external libraries and frameworks.
 
-### Formating
+### Formatting
 
 #### Indentation and spacing
 - Be consistent with indentation. On Magento projects make sure that indentation is one tab, while on Rails projects, indentation needs to be 2 spaces.
